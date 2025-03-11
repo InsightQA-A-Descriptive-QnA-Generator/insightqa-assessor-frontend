@@ -12,13 +12,13 @@ Follow these steps to set up and run the project locally.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/my-project.git
+   git clone https://github.com/InsightQA-A-Descriptive-QnA-Generator/insightqa-assessor-frontend.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd my-project
+   cd insightqa-assessor-frontend
    ```
 
 3. Install dependencies:
